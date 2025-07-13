@@ -17,16 +17,6 @@
     },
     "profiles": [
       {
-        "id": "-OV1zhKod4kjVVjIM_QH",
-        "network": "JSON resume",
-        "url": "https://registry.jsonresume.org/Madick%25C3%25A9THIANE?theme=kendall"
-      },
-      {
-        "id": "-OV1zp_p237HJSAMJOsg",
-        "network": "CV",
-        "url": "https://github.com/MadickeTHIANE/resume.json/blob/main/CV_MT_Dev-web.pdf"
-      },
-      {
         "id": "-OV1zrJRJdzH0NViAaz9",
         "network": "github",
         "url": "https://github.com/MadickeTHIANE/",
@@ -216,7 +206,7 @@
     },
     {
       "name": "Git",
-      "level": "Expert",
+      "level": "Master",
       "keywords": []
     },
     {
