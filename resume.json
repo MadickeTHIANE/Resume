@@ -87,8 +87,20 @@
       "studyType": "Concepteur développeur d'applications",
       "startDate": "2021-09-30",
       "endDate": "2023-08-31",
-      "score": "",
-      "courses": []
+      "url": "https://www.doranco-formations.fr/ecole/qui-sommes-nous",
+      "score": "obtenu",
+      "courses": ["Java"]
+    },
+    {
+      "institution": "Doranco Ecole Supérieure des Technologies Créatives",
+      "area": "Informatique",
+      "studyType": "Développeur d'applications multimédia",
+      "startDate": "2021-01-31",
+      "endDate": "2021-07-31",
+      "score": "obtenu",
+      "courses": [
+        "HTML, CSS, BOOTSTRAP, Sass, Javascript, jQuery, PHP, Symfony, Git"
+      ]
     },
     {
       "institution": "ATA formation",
@@ -97,15 +109,6 @@
       "startDate": "2009-12-31",
       "endDate": "2011-12-31",
       "score": "obtenu",
-      "courses": []
-    },
-    {
-      "institution": "Doranco Ecole Supérieure des Technologies Créatives",
-      "area": "Informatique",
-      "studyType": "Développeur d'applications multimédia",
-      "startDate": "2021-12-31",
-      "endDate": "2021-12-31",
-      "score": "Formation en cours",
       "courses": []
     },
     {
