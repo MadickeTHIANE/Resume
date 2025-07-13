@@ -17,9 +17,25 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "madické-thiane",
-        "url": "https://www.linkedin.com/in/madické-thiane/"
+        "id": "-OV1zhKod4kjVVjIM_QH",
+        "network": "JSON resume",
+        "url": "https://registry.jsonresume.org/Madick%25C3%25A9THIANE?theme=kendall"
+      },
+      {
+        "id": "-OV1zp_p237HJSAMJOsg",
+        "network": "CV",
+        "url": "https://github.com/MadickeTHIANE/resume.json/blob/main/CV_MT_Dev-web.pdf"
+      },
+      {
+        "id": "-OV1zrJRJdzH0NViAaz9",
+        "network": "github",
+        "url": "https://github.com/MadickeTHIANE/",
+        "username": "MadickeTHIANE/"
+      },
+      {
+        "id": "custom_0",
+        "network": "linkedin",
+        "url": "https://fr.linkedin.com/in/madick%25C3%25A9-thiane"
       }
     ]
   },
@@ -139,39 +155,99 @@
   ],
   "skills": [
     {
-      "name": "HTML, CSS, Sass, jQuery, Bootstrap, JavaScript, PHP, Bash",
+      "name": "HTML",
       "level": "Intermediate",
-      "keywords": ["Confirmé"]
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "Intermediate",
+      "keywords": []
     },
     {
       "name": "Java",
-      "level": "",
-      "keywords": ["Débutant"]
+      "level": "Beginner",
+      "keywords": []
     },
     {
-      "name": "React.js, I18next",
-      "level": "",
-      "keywords": ["Confirmé"]
+      "name": "React.js",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "I18next",
+      "level": "Intermediate",
+      "keywords": []
     },
     {
       "name": "Symfony",
-      "level": "",
-      "keywords": ["Confirmé"]
+      "level": "Intermediate",
+      "keywords": []
     },
     {
-      "name": "GitHub, GitLab, Git",
+      "name": "Git",
+      "level": "Expert",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
       "level": "Intermediate",
-      "keywords": ["Confirmé"]
+      "keywords": []
+    },
+    {
+      "name": "GitLab",
+      "level": "Intermediate",
+      "keywords": []
     },
     {
       "name": "Méthodes agiles (SCRUM)",
-      "level": "",
-      "keywords": ["Intermédiaire"]
+      "level": "Intermediate",
+      "keywords": []
     },
     {
-      "name": "Tolgee, Docusaurus, Cypress.io",
-      "level": "",
-      "keywords": ["Confirmé"]
+      "name": "Docusaurus",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Cypress",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "Tolgee",
+      "level": "Intermediate",
+      "keywords": []
     }
   ],
   "languages": [
