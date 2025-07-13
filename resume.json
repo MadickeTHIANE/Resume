@@ -47,7 +47,6 @@
         "Formation de 16 commis et encadrement de 5 cuisiniers",
         "Gestion de plusieurs tâches parallèles, du temps, des priorités, des ressources en environnement exigeant (brigades d’Alain Ducasse et de Yannick Alléno)"
       ],
-      "url": "",
       "location": "Paris"
     }
   ],
@@ -55,7 +54,6 @@
     {
       "organization": "Ecole Montessori l’Envol, Wahagnies (59)",
       "position": "Animateur",
-      "url": "",
       "startDate": "2024-09",
       "endDate": "2024-06",
       "summary": "",
@@ -67,9 +65,8 @@
     {
       "organization": "Supercombo",
       "position": "Développeur web",
-      "url": "",
-      "startDate": "2021/01",
-      "endDate": "202308",
+      "startDate": "2021-01",
+      "endDate": "2023-08",
       "summary": "Développement d’un site web dédié aux jeux de société (Symfony)",
       "highlights": []
     },
