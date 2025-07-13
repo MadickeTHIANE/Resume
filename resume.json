@@ -42,7 +42,7 @@
       "name": "Meurice, Shangri-La, Peninsula, Le petit Quinquin",
       "position": "Chef de partie (cuisine)",
       "startDate": "2009",
-      "endDate": "2019",
+      "endDate": "2019-12",
       "highlights": [
         "Formation de 16 commis et encadrement de 5 cuisiniers",
         "Gestion de plusieurs tâches parallèles, du temps, des priorités, des ressources en environnement exigeant (brigades d’Alain Ducasse et de Yannick Alléno)"
@@ -208,7 +208,41 @@
       "reference": "Je me permets de vous adresser cette lettre afin de recommander Monsieur Madické\nThiane, que j’ai eu le plaisir d’accompagner dans le cadre de son apprentissage en tant\nque développeur au sein de notre équipe.\nMadické a activement contribué au développement et à la maintenance d’une\napplication web de visioconférence. Parmi ses responsabilités principales figuraient la\nmise en place d’un système de gestion multilingue, la gestion des rôles utilisateurs ainsi\nque l’intégration des communications avec le backend via API.\nTout au long de son apprentissage, Madické s’est distingué par son autonomie, sa\nrigueur et sa capacité à poser les bonnes questions pour lever les éventuels obstacles\ntechniques. Il a su rapidement comprendre les enjeux fonctionnels du projet et y\napporter des solutions pertinentes et efficaces.\nSon esprit d’initiative, sa curiosité technique et sa capacité à travailler en équipe font de\nlui un profil prometteur que je recommande sans réserve pour toute opportunité\nprofessionnelle dans le domaine du développement logiciel.\nJe me tiens à votre disposition pour toute information complémentaire."
     }
   ],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Supercombo",
+      "description": "Création d'un site web avec Symfony permettant de relayer des infos sur le tcg Dragon Ball.",
+      "highlights": [
+        "Mise en place de l'internationalisation sur tout le site",
+        "Présentation de ce projet au jury suite à la formation de Développeur d'Application Multimédia"
+      ],
+      "keywords": [],
+      "startDate": "2021-01",
+      "endDate": "2023-08",
+      "url": "https://github.com/MadickeTHIANE/SuperCombo",
+      "roles": []
+    },
+    {
+      "name": "Disney+ clone",
+      "description": "Pratique de React en suivant une vidéo de Clever Programer",
+      "highlights": ["Découverte de Firebase"],
+      "keywords": [],
+      "startDate": "2022-03",
+      "endDate": "2022-03",
+      "url": "https://github.com/MadickeTHIANE/Disney-plus-clone",
+      "roles": []
+    },
+    {
+      "name": "Tesla clone",
+      "description": "Pratique de React en suivant une vidéo de Clever Programer",
+      "highlights": ["Découverte de redux"],
+      "keywords": [],
+      "startDate": "2021-11",
+      "endDate": "2021-11",
+      "url": "https://github.com/MadickeTHIANE/Tesla-clone",
+      "roles": []
+    }
+  ],
   "meta": {
     "theme": "kendall",
     "version": "v1.0.0",
