@@ -27,8 +27,8 @@
     {
       "name": "CANTON Consulting",
       "position": "Développeur web en alternance",
-      "startDate": "2021-09-30",
-      "endDate": "2023-08-31",
+      "startDate": "2021-09",
+      "endDate": "2023-08",
       "highlights": [
         "Dans le cadre de l'internationalisation de l'application, mise en place d'une méthode de recherche des coquilles et des clés inutilisées dans les JSON des différents languages",
         "Génération des factures clients au format pdf à partir d'un template en markdown auquelle sont intégrés les variables correspondant au client"
@@ -42,7 +42,7 @@
       "name": "Meurice, Shangri-La, Peninsula, Le petit Quinquin",
       "position": "Chef de partie (cuisine)",
       "startDate": "2009",
-      "endDate": "2019-12",
+      "endDate": "2019",
       "highlights": [
         "Formation de 16 commis et encadrement de 5 cuisiniers",
         "Gestion de plusieurs tâches parallèles, du temps, des priorités, des ressources en environnement exigeant (brigades d’Alain Ducasse et de Yannick Alléno)"
@@ -55,7 +55,7 @@
       "organization": "Ecole Montessori l’Envol, Wahagnies (59)",
       "position": "Animateur",
       "startDate": "2024-09",
-      "endDate": "2024-06",
+      "endDate": "2025-06",
       "summary": "",
       "highlights": [
         "Organisation et animation d’un tournoi d’échecs pour enfants de 7 à 15 ans (120 participants)",
@@ -85,8 +85,8 @@
       "institution": "Doranco Ecole Supérieure des Technologies Créatives",
       "area": "Informatique",
       "studyType": "Concepteur développeur d'applications",
-      "startDate": "2021-09-30",
-      "endDate": "2023-08-31",
+      "startDate": "2021-10",
+      "endDate": "2023-08",
       "url": "https://www.doranco-formations.fr/ecole/qui-sommes-nous",
       "score": "obtenu",
       "courses": ["Java"]
@@ -95,8 +95,8 @@
       "institution": "Doranco Ecole Supérieure des Technologies Créatives",
       "area": "Informatique",
       "studyType": "Développeur d'applications multimédia",
-      "startDate": "2021-01-31",
-      "endDate": "2021-07-31",
+      "startDate": "2021-01",
+      "endDate": "2021-07",
       "score": "obtenu",
       "courses": [
         "HTML, CSS, BOOTSTRAP, Sass, Javascript, jQuery, PHP, Symfony, Git"
@@ -106,8 +106,8 @@
       "institution": "ATA formation",
       "area": "Hôtellerie & restauration",
       "studyType": "Baccalauréat professionnel cuisine",
-      "startDate": "2009-12-31",
-      "endDate": "2011-12-31",
+      "startDate": "2009-12",
+      "endDate": "2011-12",
       "score": "obtenu",
       "courses": []
     },
@@ -115,28 +115,28 @@
       "institution": "Lycée Sainte-Marie, Beaucamps-Ligny",
       "area": "",
       "studyType": "baccalauréat général scientifique",
-      "startDate": "2005-09-31",
-      "endDate": "2006-12-31",
+      "startDate": "2005-09",
+      "endDate": "2006-06",
       "score": "Mention Bien",
       "courses": []
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "name": "Certification TOSA PHP niveau opérationnel",
       "issuer": "Tosa Certifications",
       "startDate": "2021-06-30",
+      "endDate": null,
       "url": "https://www.tosa.org/FR/Index?param=V1FiVkMvQ0pMaXFHNzVPSUhRTU1mQjMrYmsxOVpUT3h2M0pLZ0RzR09ZUlpuU3pkRjhYQnV6d3A3djNVclNWWVJubW81Vmp6L29xNWNGU0ZrRFlPR0E9PTo6x0YCykaRlsrR3RUOiEB6jw"
     },
     {
       "name": "Introduction to Java",
       "issuer": "Sololearn",
       "startDate": "2025-07-31",
+      "endDate": null,
       "url": "https://api2.sololearn.com/v2/certificates/CC-FC5V8TNI/image/png?t=638879032645260350"
     }
   ],
-  "publications": [],
   "skills": [
     {
       "name": "HTML, CSS, Sass, jQuery, Bootstrap, JavaScript, PHP, Bash",
