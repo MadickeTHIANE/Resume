@@ -10,7 +10,10 @@
     "summary": "Après avoir été cuisinier/chef de partie pendant 10 ans dans les palaces parisiens, j’ai décidé de me reconvertir dans l’informatique afin d’être plus présent pour ma famille. Cette décision a été la meilleure qui soit car j’ai pu me découvrir une véritable passion pour les outils numériques au travers de ma formation intensive de développeur, que je n’hésite pas à approfondir en autodidacte.\nSuite à mon alternance de 2 ans, j'ai acquis une expertise solide en ReactJS, Symfony, Cypress, Docusaurus, PHP, JavaScript, HTML, CSS, GIT et Bash, je suis déterminé à apporter une valeur ajoutée exceptionnelle à votre équipe. Ma capacité à concevoir des solutions innovantes et ma passion pour la qualité du code font de moi le candidat idéal pour relever vos défis techniques.",
     "location": {
       "countryCode": "FR",
-      "address": "15 Allée de Paris 93400 Saint-Ouen-Sur-Seine"
+      "address": "139 bis chemin de l'arbre de Guise",
+      "postalCode": "59113",
+      "city": "Seclin",
+      "region": "Hauts-de-France"
     },
     "profiles": [
       {
@@ -23,56 +26,63 @@
   "work": [
     {
       "name": "CANTON Consulting",
-      "position": "Développeur",
+      "position": "Développeur web en alternance",
       "startDate": "2021-09-30",
       "endDate": "2023-08-31",
-      "highlights": [],
+      "highlights": [
+        "Dans le cadre de l'internationalisation de l'application, mise en place d'une méthode de recherche des coquilles et des clés inutilisées dans les JSON des différents languages",
+        "Génération des factures clients au format pdf à partir d'un template en markdown auquelle sont intégrés les variables correspondant au client"
+      ],
       "url": "https://www.linkedin.com/company/canton-consulting/",
-      "location": "Ville de Paris, Île-de-France, France"
+      "location": "Ville de Paris, Île-de-France, France",
+      "summary": "Développement d’une application de visioconférence ultra sécurisée. Missions principales :  l'internationalisation de l'application, l'introduction du multi-client ou la génération des factures.",
+      "description": ""
     },
     {
-      "name": "Shangri-La Hotel, Paris",
-      "position": "Chef de partie (extra)",
-      "startDate": "2017-02-28",
-      "endDate": "2019-04-30",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/shangri-la-paris/"
-    },
-    {
-      "name": "The Peninsula Hotels",
-      "position": "Chef de partie (extra)",
-      "startDate": "2016-04-30",
-      "endDate": "2018-12-31",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/the-peninsula-hotels/"
-    },
-    {
-      "name": "Hôtel Le Meurice",
-      "position": "Chef de partie",
-      "startDate": "2012-11-30",
-      "endDate": "2016-08-31",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/h%C3%B4tel-le-meurice/"
-    },
-    {
-      "name": "Taillevent Paris",
-      "position": "Demi chef de partie",
-      "startDate": "2012-09-30",
-      "endDate": "2012-11-30",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/taillevent-paris/"
-    },
-    {
-      "name": "Le Petit Quinquin",
-      "position": "Commis de cuisine",
-      "startDate": "2011-11-30",
-      "endDate": "2012-07-31",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/le-petit-quinquin/",
-      "location": "Tourcoing"
+      "name": "Meurice, Shangri-La, Peninsula, Le petit Quinquin",
+      "position": "Chef de partie (cuisine)",
+      "startDate": "2009",
+      "endDate": "2019-12",
+      "highlights": [
+        "Formation de 16 commis et encadrement de 5 cuisiniers",
+        "Gestion de plusieurs tâches parallèles, du temps, des priorités, des ressources en environnement exigeant (brigades d’Alain Ducasse et de Yannick Alléno)"
+      ],
+      "url": "",
+      "location": "Paris"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Ecole Montessori l’Envol, Wahagnies (59)",
+      "position": "Animateur",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": [
+        "Organisation et animation d’un tournoi d’échecs pour enfants de 7 à 15 ans (120 participants)",
+        "Surveillant de garderie d’enfants de 3 à 12 ans."
+      ]
+    },
+    {
+      "organization": "Supercombo",
+      "position": "Développeur web",
+      "url": "",
+      "startDate": "2021/01",
+      "endDate": "202308",
+      "summary": "Développement d’un site web dédié aux jeux de société (Symfony)",
+      "highlights": []
+    },
+    {
+      "organization": "1Tgral",
+      "position": "Développeur d'application",
+      "url": "https://webtrees.net/",
+      "startDate": "2021-07-01",
+      "endDate": "2021-07-31",
+      "summary": "Création d'un arbre généalogique collaboratif avec l'application Webtree (PHP)",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Doranco Ecole Supérieure des Technologies Créatives",
@@ -105,7 +115,7 @@
       "institution": "Lycée Sainte-Marie, Beaucamps-Ligny",
       "area": "",
       "studyType": "baccalauréat général scientifique",
-      "startDate": "2005-12-31",
+      "startDate": "2005-09-31",
       "endDate": "2006-12-31",
       "score": "Mention Bien",
       "courses": []
@@ -118,149 +128,86 @@
       "issuer": "Tosa Certifications",
       "startDate": "2021-06-30",
       "url": "https://www.tosa.org/FR/Index?param=V1FiVkMvQ0pMaXFHNzVPSUhRTU1mQjMrYmsxOVpUT3h2M0pLZ0RzR09ZUlpuU3pkRjhYQnV6d3A3djNVclNWWVJubW81Vmp6L29xNWNGU0ZrRFlPR0E9PTo6x0YCykaRlsrR3RUOiEB6jw"
+    },
+    {
+      "name": "Introduction to Java",
+      "issuer": "Sololearn",
+      "startDate": "2025-07-31",
+      "url": "https://api2.sololearn.com/v2/certificates/CC-FC5V8TNI/image/png?t=638879032645260350"
     }
   ],
   "publications": [],
   "skills": [
     {
-      "name": "Docusaurus",
-      "level": "",
-      "keywords": []
+      "name": "HTML, CSS, Sass, jQuery, Bootstrap, JavaScript, PHP, Bash",
+      "level": "Intermediate",
+      "keywords": ["Confirmé"]
     },
     {
-      "name": "HTML",
+      "name": "Java",
       "level": "",
-      "keywords": []
+      "keywords": ["Débutant"]
     },
     {
-      "name": "GitHub",
+      "name": "React.js, I18next",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cypress.io",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "I18next",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Sass",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Compétences culinaires",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Feuilles de style en cascade (CSS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion de projet agile",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bash",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Préparation culinaire",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitLab",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion d’équipe",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bootstrap",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Méthodes agiles",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Framework Symfony",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tolgee",
-      "level": "",
-      "keywords": []
+      "keywords": ["Confirmé"]
     },
     {
       "name": "Symfony",
       "level": "",
-      "keywords": []
+      "keywords": ["Confirmé"]
     },
     {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
+      "name": "GitHub, GitLab, Git",
+      "level": "Intermediate",
+      "keywords": ["Confirmé"]
     },
     {
-      "name": "Spécifications",
+      "name": "Méthodes agiles (SCRUM)",
       "level": "",
-      "keywords": []
+      "keywords": ["Intermédiaire"]
     },
     {
-      "name": "React.js",
+      "name": "Tolgee, Docusaurus, Cypress.io",
       "level": "",
-      "keywords": []
+      "keywords": ["Confirmé"]
     }
   ],
   "languages": [
     {
-      "language": "fr",
+      "language": "Français",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Scolaire"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "Echecs",
+      "keywords": ["1600 elo en rapide"]
+    },
+    {
+      "name": "Jeux de société",
+      "keywords": ["Deck building"]
+    },
+    {
+      "name": "Voyages",
+      "keywords": ["+ de 10 pays visités"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Michel FOUCAULT",
+      "reference": "Je me permets de vous adresser cette lettre afin de recommander Monsieur Madické\nThiane, que j’ai eu le plaisir d’accompagner dans le cadre de son apprentissage en tant\nque développeur au sein de notre équipe.\nMadické a activement contribué au développement et à la maintenance d’une\napplication web de visioconférence. Parmi ses responsabilités principales figuraient la\nmise en place d’un système de gestion multilingue, la gestion des rôles utilisateurs ainsi\nque l’intégration des communications avec le backend via API.\nTout au long de son apprentissage, Madické s’est distingué par son autonomie, sa\nrigueur et sa capacité à poser les bonnes questions pour lever les éventuels obstacles\ntechniques. Il a su rapidement comprendre les enjeux fonctionnels du projet et y\napporter des solutions pertinentes et efficaces.\nSon esprit d’initiative, sa curiosité technique et sa capacité à travailler en équipe font de\nlui un profil prometteur que je recommande sans réserve pour toute opportunité\nprofessionnelle dans le domaine du développement logiciel.\nJe me tiens à votre disposition pour toute information complémentaire."
+    }
+  ],
   "projects": [],
   "meta": {
     "theme": "kendall",
