@@ -202,12 +202,6 @@
       "keywords": ["+ de 10 pays visités"]
     }
   ],
-  "references": [
-    {
-      "name": "Michel FOUCAULT",
-      "reference": "Je me permets de vous adresser cette lettre afin de recommander Monsieur Madické\nThiane, que j’ai eu le plaisir d’accompagner dans le cadre de son apprentissage en tant\nque développeur au sein de notre équipe.\nMadické a activement contribué au développement et à la maintenance d’une\napplication web de visioconférence. Parmi ses responsabilités principales figuraient la\nmise en place d’un système de gestion multilingue, la gestion des rôles utilisateurs ainsi\nque l’intégration des communications avec le backend via API.\nTout au long de son apprentissage, Madické s’est distingué par son autonomie, sa\nrigueur et sa capacité à poser les bonnes questions pour lever les éventuels obstacles\ntechniques. Il a su rapidement comprendre les enjeux fonctionnels du projet et y\napporter des solutions pertinentes et efficaces.\nSon esprit d’initiative, sa curiosité technique et sa capacité à travailler en équipe font de\nlui un profil prometteur que je recommande sans réserve pour toute opportunité\nprofessionnelle dans le domaine du développement logiciel.\nJe me tiens à votre disposition pour toute information complémentaire."
-    }
-  ],
   "projects": [
     {
       "name": "Supercombo",
